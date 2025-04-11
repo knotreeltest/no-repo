@@ -1,0 +1,11 @@
+input_id,text,true_label,predicted_label,confidence
+1,"123 Main Street, Springfield, IL",Residential,Residential,0.9982
+2,"PO Box 485, Lincoln, NE",PO_Box,PO_Box,0.9945
+3,"456 Corporate Dr, Suite 300, Chicago, IL",Business,Business,0.9968
+4,"Apartment 5B, 789 Elm St, Dallas, TX",Residential,Residential,0.9824
+5,"Distribution Center, 123 Warehouse Blvd, Memphis, TN",Business,Residential,0.8413
+6,"321 University Ave, Cambridge, MA",Educational,Business,0.7530
+7,"PO Box 994, Tucson, AZ",PO_Box,PO_Box,0.9990
+8,"742 Evergreen Terrace, Springfield",Residential,Residential,0.9971
+9,"NASA HQ, 300 E St SW, Washington, DC",Government,Government,0.9876
+10,"456 Main Street, Apt 10, Boston, MA",Residential,Residential,0.9834
