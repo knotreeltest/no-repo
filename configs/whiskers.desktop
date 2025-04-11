@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=whiskers
+Comment=Shell-based handler
+Exec=sh /home/oai/scripts/recipies.sh
+Categories=Internet;
